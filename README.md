@@ -4,7 +4,7 @@ Use SpringBoot framework & ajax.
 
 # Simple Description #
 
->The project is architected in Spring Framwork 5.2.x, and uses Hibernate 5.x to manage persistence layer. To follow up this guideline, you can aspect the architecture step by step.
+>The project is architected in Spring Boot 2.4.4, and uses Spring IOC container to manage persistence layer. To follow up this guideline, you can aspect the architecture step by step.
 
 # Initialize #
 > ***Install  SQL Server database first, website of installation guide <a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads">here</a><br> 
