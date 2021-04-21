@@ -15,7 +15,7 @@ After installing the MSSQL, you must:
 # Configuration of this project #
 > ***The steps that is suggested to be followed in sequence.
 > 
-<strong>1.Configurations in "conf" package</strong>
+<strong>1.Configurations in "src/main/java/iii/team3/config" package</strong>
 > <p>1-1.our frontpage template is in "src/main/resources/static/"</p>
 > <p>1-2 jsp and js files store in "src/main/webapp/"<p>
 > <p>1-3 Maven wrapper managed and the pom.xml file imported.</p>
@@ -27,3 +27,19 @@ After installing the MSSQL, you must:
 > <p>2-4. "model" </p>
 
 # Scaffold #
+Team3Springboot/
+  └─ src/main/
+    └─ java/
+      └─iii/team3/
+        └─MessageBoard/
+        └─act/
+        └─chatroom/
+        └─config/
+        └─member/
+        └─product/
+        └─shoppingCart/
+        ServletInitializer.java
+        Team03ShoppingSiteBootApplication.java
+     └─resources/
+     └─webapp/
+  
