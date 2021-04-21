@@ -48,5 +48,5 @@ Team3Springboot/
 </code>
 </pre>
 ## Author info ##
-> Email to me:<p>mikekiteel@gmail.com</p>
+> Email me:  <p>mikekiteel@gmail.com</p>
 > Linkedin : <a href='linkedin.com/in/matt-chen-bb895a1a4'>linkedin profile</a>
