@@ -11,6 +11,7 @@ Use SpringBoot framework & ajax.
 After installing the MSSQL, you must:
 ><p>1. Execute the script "src/main/resources/tables(2021.04.19)" in the DB<p>
 ><p>2. Change the user name and password (also your JDBC url if needed) of your database connection in "src/main/resources/applicatyion.properties"</p>
+><p>3. Run this .java file in "src/main/java/iii/team3/Team03ShoppingSiteBootApplication.java" to launch website. 
 
 # Configuration of this project #
 > ***The steps that is suggested to be followed in sequence.
@@ -29,7 +30,6 @@ After installing the MSSQL, you must:
 # Scaffold #
 <pre lang='txt'>
 <code>
-
 Team3Springboot/                              
   └─ src/main/                               
     └─ java/                                  
@@ -40,12 +40,9 @@ Team3Springboot/
         └─config/                             
         └─member/                             
         └─product/                            
-        └─shoppingCart/                      
-        ServletInitializer.java               
-        Team03ShoppingSiteBootApplication.java
+        └─shoppingCart/                                    
      └─resources/                             
      └─webapp/
-
 </code>
 </pre>
   
