@@ -15,6 +15,7 @@ Use SpringBoot framework & ajax.
 
 # Configuration of this project #
 > The steps that is suggested to be followed in sequence.
+> 
 > 1.Configurations in "conf" package
 > 1-1.
 > 1-2.
