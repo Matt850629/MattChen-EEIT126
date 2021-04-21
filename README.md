@@ -14,7 +14,7 @@ Use SpringBoot framework & ajax.
 ><p>2-2. Change the user name and password (also your JDBC url if needed) of your database connection in "src/main/resources/applicatyion.properties"</p>
 
 # Configuration of this project #
-> ***The steps that is suggested to be followed in sequence.***
+> ===The steps that is suggested to be followed in sequence.===
 > 
 <strong>1.Configurations in "conf" package</strong>
 > <p>1-1.our frontpage template is in "src/main/resources/static/"</p>
