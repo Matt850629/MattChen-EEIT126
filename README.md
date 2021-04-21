@@ -28,18 +28,18 @@ After installing the MSSQL, you must:
 
 # Scaffold #
 Team3Springboot/
-  └─ src/main/
-    └─ java/
-      └─iii/team3/
-        └─MessageBoard/
-        └─act/
-        └─chatroom/
-        └─config/
-        └─member/
-        └─product/
-        └─shoppingCart/
-        ServletInitializer.java
-        Team03ShoppingSiteBootApplication.java
-     └─resources/
-     └─webapp/
+  └─ src/main/                                <br>
+    └─ java/                                  <br>
+      └─iii/team3/                            <br>
+        └─MessageBoard/                       <br>
+        └─act/                                <br>
+        └─chatroom/                           <br>
+        └─config/                             <br>
+        └─member/                             <br>
+        └─product/                            <br>
+        └─shoppingCart/                       <br>
+        ServletInitializer.java               <br>
+        Team03ShoppingSiteBootApplication.java<br>
+     └─resources/                             <br>
+     └─webapp/                                <br>
   
