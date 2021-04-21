@@ -10,7 +10,12 @@ Use SpringBoot framework & ajax.
 >Install  SQL Server database first, website of installation guide <a href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads">here</a>
 
 >After installing the MSSQL, you must:
-2-1. Execute the script "src/main/resources/SQL_FOR_DEMO.sql" in the DB
+2-1. Execute the script "src/main/resources/tables(2021.04.19)" in the DB
 2-2. Change the user name and password (also your JDBC url if needed) of your database connection in "src/main/resources/applicatyion.properties"
 
-
+# Configuration of this project #
+>The steps that is suggested to be followed in sequence
+1.Configurations in "conf" package
+> 1-1.
+> 1-2.
+2.Basic MVC architecture
