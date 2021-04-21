@@ -31,15 +31,15 @@ Team3Springboot/                              <br>
   └─ src/main/                                <br>
 >    └─ java/                                  <br>
 >      └─iii/team3/                            <br>
-        └─MessageBoard/                       <br>
-        └─act/                                <br>
-        └─chatroom/                           <br>
-        └─config/                             <br>
-        └─member/                             <br>
-        └─product/                            <br>
-        └─shoppingCart/                       <br>
-        ServletInitializer.java               <br>
-        Team03ShoppingSiteBootApplication.java<br>
-     └─resources/                             <br>
-     └─webapp/                                <br>
+>        └─MessageBoard/                       <br>
+>        └─act/                                <br>
+>        └─chatroom/                           <br>
+>        └─config/                             <br>
+>        └─member/                             <br>
+>        └─product/                            <br>
+>        └─shoppingCart/                       <br>
+>        ServletInitializer.java               <br>
+>        Team03ShoppingSiteBootApplication.java<br>
+>     └─resources/                             <br>
+>     └─webapp/                                <br>
   
