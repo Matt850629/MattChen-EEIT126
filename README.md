@@ -16,8 +16,12 @@ Use SpringBoot framework & ajax.
 # Configuration of this project #
 > The steps that is suggested to be followed in sequence.
 > 
-> 1.Configurations in "conf" package
+1.Configurations in "conf" package
 > <p>1-1.our frontpage template is in "src/main/resources/static/"</p>
-> 
-> 1-2.
+> <p>1-2 jsp & js files store in "src/main/webapp/"<p>
+
 2.Basic MVC architecture
+> 2-1. "controller"
+> 2-2. 'service"
+> 2-3. "dao"
+> 2-4. "model"
