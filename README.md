@@ -49,4 +49,4 @@ Team3Springboot/
 </pre>
 ## Author info ##
 > Email to me:<p>mikekiteel@gmail.com</p>
-> Linkedin :<p>linkedin.com/in/matt-chen-bb895a1a4</p>
+> Linkedin : <a href='linkedin.com/in/matt-chen-bb895a1a4'>linkedin profile</a>
