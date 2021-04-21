@@ -29,7 +29,7 @@ After installing the MSSQL, you must:
 # Scaffold #
 <pre lang='txt'>
 <code>
-"
+
 Team3Springboot/                              
   └─ src/main/                               
     └─ java/                                  
@@ -45,7 +45,7 @@ Team3Springboot/
         Team03ShoppingSiteBootApplication.java
      └─resources/                             
      └─webapp/
-"
+
 </code>
 </pre>
   
