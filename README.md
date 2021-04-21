@@ -27,10 +27,10 @@ After installing the MSSQL, you must:
 > <p>2-4. "model" </p>
 
 # Scaffold #
-Team3Springboot/
+Team3Springboot/                              <br>
   └─ src/main/                                <br>
-    └─ java/                                  <br>
-      └─iii/team3/                            <br>
+>    └─ java/                                  <br>
+>      └─iii/team3/                            <br>
         └─MessageBoard/                       <br>
         └─act/                                <br>
         └─chatroom/                           <br>
