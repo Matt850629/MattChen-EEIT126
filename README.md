@@ -17,6 +17,6 @@ Use SpringBoot framework & ajax.
 > The steps that is suggested to be followed in sequence.
 > 
 > 1.Configurations in "conf" package
-> 1-1.
+> 1-1.our frontpage template is in "src/main/resources/static/"
 > 1-2.
 2.Basic MVC architecture
