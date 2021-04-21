@@ -47,4 +47,6 @@ Team3Springboot/
      └─webapp/
 </code>
 </pre>
-  
+## Author info ##
+> 1.email to me:<p>mikekiteel@gmail.com</p>
+> 2.
