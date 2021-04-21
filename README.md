@@ -22,9 +22,9 @@ Use SpringBoot framework & ajax.
 > <p>1-3 Maven wrapper managed and the pom.xml file imported.</p>
 
 2.Basic MVC architecture
-> 2-1. "controller"
-> 2-2. 'service"
-> 2-3. "dao"
-> 2-4. "model"
+> <p>2-1. "controller"</p>
+> <p>2-2. 'service" </p>
+> <p>2-3. "dao" </p>
+> <p>2-4. "model" </p>
 
 # Scaffold #
